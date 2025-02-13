@@ -1,6 +1,22 @@
 {
 		"name": "Difficulty Adjustment",
 		"uniques": [
-			""
+			"Only available <in [Capital] cities> <for [Human player] Civilizations> <hidden from users>",
+			//King
+			"[-10]% Unhappiness from [Population] [in all cities] <on [King] difficulty>",
+			"[+100]% Production when constructing [All] buildings [in all cities] <on [King] difficulty>",
+			"[+100]% Production when constructing [All] units [in all cities] <on [King] difficulty>",
+			//Emperor
+			"[-15]% Unhappiness from [Population] [in all cities] <on [Emperor] difficulty>",
+			"[+100]% Production when constructing [All] buildings [in all cities] <on [Emperor] difficulty>",
+			"[+100]% Production when constructing [All] units [in all cities] <on [Emperor] difficulty>",
+			//Immortal
+			"[-25]% Unhappiness from [Population] [in all cities] <on [Immortal] difficulty>",
+			"[+100]% Production when constructing [All] buildings [in all cities] <on [Immortal] difficulty>",
+			"[+100]% Production when constructing [All] units [in all cities] <on [Immortal] difficulty>",
+			//Deity
+			"[-40]% Unhappiness from [Population] [in all cities] <on [Deity] difficulty>",
+			"[+100]% Production when constructing [All] buildings [in all cities] <on [Deity] difficulty>",
+			"[+100]% Production when constructing [All] units [in all cities] <on [Deity] difficulty>",
 		]
 },
