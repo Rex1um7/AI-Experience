@@ -5,6 +5,7 @@
 			"Comment [Fxxk those AI in high difficulty having UNFAIR advantages]",
 			"Only available <in [Capital] cities> <for [Human player] Civilizations> <hidden from users>",
 			"Triggers a [Stat Adjustment] event <hidden from users>",
+			/*
 			//King
 			"[-10]% Unhappiness from [Population] [in all cities] <on [King] difficulty>",
 			"[+100]% Production when constructing [All] buildings [in all cities] <on [King] difficulty>",
@@ -21,6 +22,7 @@
 			"[-40]% Unhappiness from [Population] [in all cities] <on [Deity] difficulty>",
 			"[+100]% Production when constructing [All] buildings [in all cities] <on [Deity] difficulty>",
 			"[+100]% Production when constructing [All] units [in all cities] <on [Deity] difficulty>",
+			*/
 		]
          },
 ]
