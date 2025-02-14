@@ -1,3 +1,4 @@
+[
 {
 		"name": "Difficulty Adjustment",
 		"uniques": [
@@ -19,4 +20,5 @@
 			"[+100]% Production when constructing [All] buildings [in all cities] <on [Deity] difficulty>",
 			"[+100]% Production when constructing [All] units [in all cities] <on [Deity] difficulty>",
 		]
-},
+         },
+]
