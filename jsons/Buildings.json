@@ -5,6 +5,7 @@
 			"Comment [Fxxk those AI in high difficulty having UNFAIR advantages]",
 			"Only available <in [Capital] cities> <for [Human player] Civilizations> <hidden from users>",
 			"Triggers a [Stat Adjustment] event <hidden from users>",
+			"Remove [Difficulty Adjustment] [in all cities] <hidden from users>",
 			/*
 			//King
 			"[-10]% Unhappiness from [Population] [in all cities] <on [King] difficulty>",
