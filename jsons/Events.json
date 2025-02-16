@@ -1,11 +1,394 @@
 [
         {
                 "name":"Stat Adjustment",
-                "text":"Stat Adjustment",
+                "text":"Production",
                 "choices":[
                         {
-                                ""
-                        }
+                                "text": "Production (Prince)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (King)",
+				"civilopediaText": [
+					{ "text": "" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (Emperor)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Immortal)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Deity)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
                 ]
-        }
+        },
+        {
+                "name":"Food",
+                "text":"City Grow",
+                "choices":[
+                        {
+                                "text": "Production (Prince)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (King)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (Emperor)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Immortal)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Deity)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                ]
+        },
+        {
+                "name":"Unit Cost",
+                "text":"Unit Cost",
+                "choices":[
+                        {
+                                "text": "Production (Prince)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (King)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (Emperor)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Immortal)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Deity)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                ]
+        },
+        {
+                "name":"Building Cost",
+                "text":"Building Cost",
+                "choices":[
+                        {
+                                "text": "Production (Prince)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (King)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (Emperor)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Immortal)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Deity)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                ]
+        },
+        {
+                "name":"Building Maintenance",
+                "text":"Building Maintenance",
+                "choices":[
+                        {
+                                "text": "Production (Prince)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (King)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (Emperor)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Immortal)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Deity)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                ]
+        },
+        {
+                "name":"Unit Maintenance",
+                "text":"Unit Maintenance",
+                "choices":[
+                        {
+                                "text": "Production (Prince)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (King)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (Emperor)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Immortal)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Deity)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                ]
+        },
+        {
+                "name":"Happiness",
+                "text":"Happiness",
+                "choices":[
+                        {
+                                "text": "Production (Prince)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (King)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production (Emperor)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Immortal)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                         {
+                                "text": "Production(Deity)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Food] event <hidden from users>",
+				]
+                        },
+                ]
+        },
 ]
