@@ -20,7 +20,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[10]% Food is carried over after population increases [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -31,7 +31,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[15]% Food is carried over after population increases [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -42,7 +42,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[25]% Food is carried over after population increases [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -53,7 +53,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[40]% Food is carried over after population increases [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -80,7 +80,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[+18]% Production when constructing [All] units [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>",
 					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
@@ -91,7 +91,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[+25]% Production when constructing [All] units [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>",
 					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
@@ -102,7 +102,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[+54]% Production when constructing [All] units [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>",
 					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
@@ -113,7 +113,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[+100]% Production when constructing [All] units [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>",
 					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
@@ -140,7 +140,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[+18]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
@@ -151,7 +151,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[+25]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
@@ -162,7 +162,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[+54]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
@@ -173,7 +173,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[+100]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
@@ -200,7 +200,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-15]% maintenance cost for buildings [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
@@ -211,7 +211,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-20]% maintenance cost for buildings [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
@@ -222,7 +222,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-35]% maintenance cost for buildings [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
@@ -233,7 +233,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-50]% maintenance cost for buildings [in all cities] <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
@@ -260,7 +260,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-15]% maintenance costs <for [All] units> <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -271,7 +271,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-20]% maintenance costs <for [All] units> <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -282,7 +282,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-25]% maintenance costs <for [All] units> <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -293,7 +293,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-35]% maintenance costs <for [All] units> <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -304,7 +304,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-50]% maintenance costs <for [All] units> <hidden from users>",
+					"Gain a free [Library] [in in capital] <hidden from users>>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -330,8 +330,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-10]% unhappiness from the number of cities <hidden from users>",
-					"[-10]% Unhappiness from [Population] [in all cities] <hidden from users>",
+					
 				]
                         },
                          {
@@ -341,8 +340,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-15]% unhappiness from the number of cities <hidden from users>",
-					"[-15]% Unhappiness from [Population] [in all cities] <hidden from users>",
+					
 				]
                         },
                          {
@@ -352,8 +350,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-25]% unhappiness from the number of cities <hidden from users>",
-					"[-25]% Unhappiness from [Population] [in all cities] <hidden from users>",
+					
 				]
                         },
                          {
@@ -363,8 +360,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-40]% unhappiness from the number of cities <hidden from users>",
-					"[-40]% Unhappiness from [Population] [in all cities] <hidden from users>",
+					
 				]
                         },
                 ]
