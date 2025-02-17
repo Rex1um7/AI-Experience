@@ -1,112 +1,60 @@
 [
         {
                 "name":"Stat Adjustment",
-                "text":"Production",
-                "choices":[
-                        {
-                                "text": "Production (Prince)",
-				"civilopediaText": [
-					{ "text": "Default" }
-				],
-                                "uniques": [
-					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
-				]
-                        },
-                         {
-                                "text": "Production (King)",
-				"civilopediaText": [
-					{ "text": "" }
-				],
-                                "uniques": [
-					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
-				]
-                        },
-                         {
-                                "text": "Production (Emperor)",
-				"civilopediaText": [
-					{ "text": "Default" }
-				],
-                                "uniques": [
-					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
-				]
-                        },
-                         {
-                                "text": "Production(Immortal)",
-				"civilopediaText": [
-					{ "text": "Default" }
-				],
-                                "uniques": [
-					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
-				]
-                        },
-                         {
-                                "text": "Production(Deity)",
-				"civilopediaText": [
-					{ "text": "Default" }
-				],
-                                "uniques": [
-					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
-				]
-                        },
-                ]
-        },
-        {
-                "name":"Food",
                 "text":"City Grow",
                 "choices":[
                         {
-                                "text": "Production (Prince)",
+                                "text": "City Grow (Prince)",
 				"civilopediaText": [
 					{ "text": "Default" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (King)",
+                                "text": "City Grow (King)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "10% Growth modifier" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[10]% Food is carried over after population increases [in all cities]",
+					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (Emperor)",
+                                "text": "City Grow (Emperor)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "15% Growth modifier" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[15]% Food is carried over after population increases [in all cities]",
+					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Immortal)",
+                                "text": "City Grow (Immortal)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "25% Growth modifier" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[25]% Food is carried over after population increases [in all cities]",
+					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Deity)",
+                                "text": "City Grow (Deity)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "40% Growth modifier" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[40]% Food is carried over after population increases [in all cities]",
+					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
                 ]
@@ -116,53 +64,57 @@
                 "text":"Unit Cost",
                 "choices":[
                         {
-                                "text": "Production (Prince)",
+                                "text": "Unit Cost (Prince)",
 				"civilopediaText": [
 					{ "text": "Default" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (King)",
+                                "text": "Unit Cost (King)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "+18% Production when contructing all units" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[+18]% Production when constructing [All] units [in all cities] <hidden from users>",
+					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (Emperor)",
+                                "text": "Unit Cost (Emperor)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "+25% Production when contructing all units" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[+25]% Production when constructing [All] units [in all cities] <hidden from users>",
+					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Immortal)",
+                                "text": "Unit Cost (Immortal)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "+54% Production when contructing all units" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[+54]% Production when constructing [All] units [in all cities] <hidden from users>",
+					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Deity)",
+                                "text": "Unit Cost (Deity)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "+100% Production when contructing all units" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[+100]% Production when constructing [All] units [in all cities] <hidden from users>",
+					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
                 ]
@@ -172,53 +124,57 @@
                 "text":"Building Cost",
                 "choices":[
                         {
-                                "text": "Production (Prince)",
+                                "text": "Building Cost (Prince)",
 				"civilopediaText": [
 					{ "text": "Default" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (King)",
+                                "text": "Building Cost (King)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "+18% Production when contructing all buildings" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[+18]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (Emperor)",
+                                "text": "Building Cost (Emperor)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "+25% Production when contructing all buildings" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[+25]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Immortal)",
+                                "text": "Building Cost (Immortal)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "+54% Production when contructing all buildings" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[+54]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Deity)",
+                                "text": "Building Cost (Deity)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "+100% Production when contructing all buildings" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[+100]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
                 ]
@@ -228,53 +184,57 @@
                 "text":"Building Maintenance",
                 "choices":[
                         {
-                                "text": "Production (Prince)",
+                                "text": "Building Maintenance (Prince)",
 				"civilopediaText": [
 					{ "text": "Default" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (King)",
+                                "text": "Building Maintenance (King)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-15% buildings maintenance cost" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-15]% maintenance cost for buildings [in all cities] <hidden from users>",
+					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (Emperor)",
+                                "text": "Building Maintenance (Emperor)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-20% buildings maintenance cost" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-20]% maintenance cost for buildings [in all cities] <hidden from users>",
+					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Immortal)",
+                                "text": "Building Maintenance (Immortal)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-35% buildings maintenance cost" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-35]% maintenance cost for buildings [in all cities] <hidden from users>",
+					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Deity)",
+                                "text": "Building Maintenance (Deity)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-50% buildings maintenance cost" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-50]% maintenance cost for buildings [in all cities] <hidden from users>",
+					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
                 ]
@@ -283,54 +243,69 @@
                 "name":"Unit Maintenance",
                 "text":"Unit Maintenance",
                 "choices":[
+			{
+				"text": "Unit Maintenance (Normal)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [Stat Adjustment] [in capital] <hidden from users>",
+					"Triggers a [Happiness] event <hidden from users>",
+				]
+			}
                         {
-                                "text": "Production (Prince)",
+                                "text": "Unit Maintenance (Prince)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-15% unit maintenance costs" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-15]% maintenance costs <for [All] units> <hidden from users>",
+					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (King)",
+                                "text": "Unit Maintenance (King)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-20% unit maintenance costs" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-20]% maintenance costs <for [All] units> <hidden from users>",
+					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (Emperor)",
+                                "text": "Unit Maintenance (Emperor)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-25% unit maintenance costs" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-25]% maintenance costs <for [All] units> <hidden from users>",
+					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Immortal)",
+                                "text": "Unit Maintenance (Immortal)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-35% unit maintenance costs" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-35]% maintenance costs <for [All] units> <hidden from users>",
+					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production(Deity)",
+                                "text": "Unit Maintenance (Deity)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-50% unit maintenance costs" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-50]% maintenance costs <for [All] units> <hidden from users>",
+					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
                 ]
@@ -340,53 +315,56 @@
                 "text":"Happiness",
                 "choices":[
                         {
-                                "text": "Production (Prince)",
+                                "text": "Happiness (Prince)",
 				"civilopediaText": [
 					{ "text": "Default" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
 				]
                         },
                          {
-                                "text": "Production (King)",
+                                "text": "Happiness (King)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-10% unhappiness from populations and numbers of cities" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-10]% unhappiness from the number of cities",
+					"[-10]% Unhappiness from [Population] [in all cities]",
 				]
                         },
                          {
-                                "text": "Production (Emperor)",
+                                "text": "Happiness (Emperor)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-15% unhappiness from populations and numbers of cities" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-15]% unhappiness from the number of cities",
+					"[-15]% Unhappiness from [Population] [in all cities]",
 				]
                         },
                          {
-                                "text": "Production(Immortal)",
+                                "text": "Happiness (Immortal)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "25% unhappiness from populations and numbers of cities" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-25]% unhappiness from the number of cities",
+					"[-25]% Unhappiness from [Population] [in all cities]",
 				]
                         },
                          {
-                                "text": "Production(Deity)",
+                                "text": "Happiness (Deity)",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "-40% unhappiness from populations and numbers of cities" }
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Triggers a [Food] event <hidden from users>",
+					"[-40]% unhappiness from the number of cities",
+					"[-40]% Unhappiness from [Population] [in all cities]",
 				]
                         },
                 ]
