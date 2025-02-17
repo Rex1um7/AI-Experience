@@ -86,6 +86,7 @@
 	{
 		"name": "Building Cost (Immortal)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[+54]% Production when constructing [All] buildings [in all cities] <hidden from users>",
 		]
          },
