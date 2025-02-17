@@ -20,7 +20,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>",
+					"Gain a free [City Grow (King)] [in capital] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -31,7 +31,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>",
+					"Gain a free [City Grow (Emperor)] [in capital] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -42,7 +42,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>",
+					"Gain a free [City Grow (Immortal)] [in capital] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -53,7 +53,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>",
+					"Gain a free [City Grow (Deity)] [in capital] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -80,7 +80,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>",
+					"Gain a free [Unit Cost (King)] [in capital] <hidden from users>",
 					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
@@ -91,7 +91,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>",
+					"Gain a free [Unit Cost (Emperor)] [in capital] <hidden from users>",
 					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
@@ -102,7 +102,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>",
+					"Gain a free [Unit Cost (Immortal)] [in capital] <hidden from users>",
 					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
@@ -113,7 +113,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>",
+					"Gain a free [Unit Cost (Deity)] [in capital] <hidden from users>",
 					"Triggers a [Building Cost] event <hidden from users>",
 				]
                         },
@@ -140,7 +140,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Building Cost (King)] [in capital] <hidden from users>",
 					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
@@ -151,7 +151,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Building Cost (Emperor)] [in capital] <hidden from users>",
 					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
@@ -162,7 +162,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Building Cost (Immortal)] [in capital] <hidden from users>",
 					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
@@ -173,7 +173,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Building Cost (Deity)] [in capital] <hidden from users>",
 					"Triggers a [Building Maintenance] event <hidden from users>",
 				]
                         },
@@ -200,7 +200,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Building Maintenance (King)] [in capital] <hidden from users>",
 					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
@@ -211,7 +211,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Building Maintenance (Emperor)] [in capital] <hidden from users>",
 					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
@@ -222,7 +222,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Building Maintenance (Immortal)] [in capital] <hidden from users>",
 					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
@@ -233,7 +233,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Building Maintenance (Deity)] [in capital] <hidden from users>",
 					"Triggers a [Unit Maintenance] event <hidden from users>",
 				]
                         },
@@ -260,7 +260,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Unit Maintenance (Prince)] [in capital] <hidden from users>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -271,7 +271,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Unit Maintenance (King)] [in capital] <hidden from users>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -282,7 +282,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Unit Maintenance (Emperor)] [in capital] <hidden from users>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -293,7 +293,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Unit Maintenance (Immortal)] [in capital] <hidden from users>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -304,7 +304,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"Gain a free [Library] [in in capital] <hidden from users>>",
+					"Gain a free [Unit Maintenance (Deity)] [in capital] <hidden from users>",
 					"Triggers a [Happiness] event <hidden from users>",
 				]
                         },
@@ -330,7 +330,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					
+					"Gain a free [Happiness (King)] [in capital] <hidden from users>",
 				]
                         },
                          {
@@ -340,7 +340,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					
+					"Gain a free [Happiness (Emperor)] [in capital] <hidden from users>",
 				]
                         },
                          {
@@ -350,7 +350,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					
+					"Gain a free [Happiness (Immortal)] [in capital] <hidden from users>",
 				]
                         },
                          {
@@ -360,7 +360,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					
+					"Gain a free [Happiness (Deity)] [in capital] <hidden from users>",
 				]
                         },
                 ]
