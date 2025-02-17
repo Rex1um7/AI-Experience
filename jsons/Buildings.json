@@ -2,6 +2,8 @@
 	{
 		"name": "Difficulty Adjustment",
 		"uniques": [
+			"Unbuildable","Unsellable",
+			"Can be purchased for [0] [Faith] [in capital]",
 			"Comment [Fxxk those AI in high difficulty having UNFAIR advantages]",
 			"Only available <in [Capital] cities> <for [Human player] Civilizations> <hidden from users>",
 			"Triggers a [Stat Adjustment] event <hidden from users>",
@@ -12,24 +14,28 @@
 	{
 		"name": "City Grow (King)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[10]% Food is carried over after population increases [in all cities]",
 		]
          },
 	{
 		"name": "City Grow (Emperor)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[15]% Food is carried over after population increases [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "City Grow (Immortal)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[25]% Food is carried over after population increases [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "City Grow (Deity)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[40]% Food is carried over after population increases [in all cities] <hidden from users>",
 		]
          },
@@ -37,24 +43,28 @@
 	{
 		"name": "Unit Cost (King)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[+18]% Production when constructing [All] units [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "Unit Cost (Emperor)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[+25]% Production when constructing [All] units [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "Unit Cost (Immortal)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[+54]% Production when constructing [All] units [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "Unit Cost (Deity)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[+100]% Production when constructing [All] units [in all cities] <hidden from users>",
 		]
          },
@@ -62,12 +72,14 @@
 	{
 		"name": "Building Cost (King)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[+18]% Production when constructing [All] buildings [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "Building Cost (Emperor)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[+25]% Production when constructing [All] buildings [in all cities] <hidden from users>",
 		]
          },
@@ -80,6 +92,7 @@
 	{
 		"name": "Building Cost (Deity)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[+100]% Production when constructing [All] buildings [in all cities] <hidden from users>",
 		]
          },
@@ -87,24 +100,28 @@
 	{
 		"name": "Building Maintenance (King)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-15]% maintenance cost for buildings [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "Building Maintenance (Emperor)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-20]% maintenance cost for buildings [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "Building Maintenance (Immortal)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-35]% maintenance cost for buildings [in all cities] <hidden from users>",
 		]
          },
 	{
 		"name": "Building Maintenance (Deity)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-50]% maintenance cost for buildings [in all cities] <hidden from users>",
 		]
          },
@@ -112,30 +129,35 @@
 	{
 		"name": "Unit Maintenance (Prince)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-15]% maintenance costs <for [All] units> <hidden from users>",
 		]
          },
 	{
 		"name": "Unit Maintenance (King)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-20]% maintenance costs <for [All] units> <hidden from users>",
 		]
          },
 	{
 		"name": "Unit Maintenance (Emperor)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-25]% maintenance costs <for [All] units> <hidden from users>",
 		]
          },
 	{
 		"name": "Unit Maintenance (Immortal)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-35]% maintenance costs <for [All] units> <hidden from users>",
 		]
          },
 	{
 		"name": "Unit Maintenance (Deity)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-50]% maintenance costs <for [All] units> <hidden from users>",
 		]
          },
@@ -143,6 +165,7 @@
 	{
 		"name": "Happiness (King)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-10]% unhappiness from the number of cities <hidden from users>",
 			"[-10]% Unhappiness from [Population] [in all cities] <hidden from users>",
 		]
@@ -150,6 +173,7 @@
 	{
 		"name": "Happiness (Emperor)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-15]% unhappiness from the number of cities <hidden from users>",
 			"[-15]% Unhappiness from [Population] [in all cities] <hidden from users>",
 		]
@@ -157,6 +181,7 @@
 	{
 		"name": "Happiness (Immortal)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-25]% unhappiness from the number of cities <hidden from users>",
 			"[-25]% Unhappiness from [Population] [in all cities] <hidden from users>",
 		]
@@ -164,6 +189,7 @@
 	{
 		"name": "Happiness (Deity)",
 		"uniques": [
+			"Unbuildable","Unsellable",
 			"[-40]% unhappiness from the number of cities <hidden from users>",
 			"[-40]% Unhappiness from [Population] [in all cities] <hidden from users>",
 		]
