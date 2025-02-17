@@ -1,29 +1,171 @@
 [
-{
+	{
 		"name": "Difficulty Adjustment",
 		"uniques": [
 			"Comment [Fxxk those AI in high difficulty having UNFAIR advantages]",
 			"Only available <in [Capital] cities> <for [Human player] Civilizations> <hidden from users>",
 			"Triggers a [Stat Adjustment] event <hidden from users>",
 			"Remove [Difficulty Adjustment] [in all cities] <hidden from users>",
-			/*
-			//King
-			"[-10]% Unhappiness from [Population] [in all cities] <on [King] difficulty>",
-			"[+100]% Production when constructing [All] buildings [in all cities] <on [King] difficulty>",
-			"[+100]% Production when constructing [All] units [in all cities] <on [King] difficulty>",
-			//Emperor
-			"[-15]% Unhappiness from [Population] [in all cities] <on [Emperor] difficulty>",
-			"[+100]% Production when constructing [All] buildings [in all cities] <on [Emperor] difficulty>",
-			"[+100]% Production when constructing [All] units [in all cities] <on [Emperor] difficulty>",
-			//Immortal
-			"[-25]% Unhappiness from [Population] [in all cities] <on [Immortal] difficulty>",
-			"[+100]% Production when constructing [All] buildings [in all cities] <on [Immortal] difficulty>",
-			"[+100]% Production when constructing [All] units [in all cities] <on [Immortal] difficulty>",
-			//Deity
-			"[-40]% Unhappiness from [Population] [in all cities] <on [Deity] difficulty>",
-			"[+100]% Production when constructing [All] buildings [in all cities] <on [Deity] difficulty>",
-			"[+100]% Production when constructing [All] units [in all cities] <on [Deity] difficulty>",
-			*/
+		]
+         },
+	// City Grow
+	{
+		"name": "City Grow (King)",
+		"uniques": [
+			"[10]% Food is carried over after population increases [in all cities]",
+		]
+         },
+	{
+		"name": "City Grow (Emperor)",
+		"uniques": [
+			"[15]% Food is carried over after population increases [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "City Grow (Immortal)",
+		"uniques": [
+			"[25]% Food is carried over after population increases [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "City Grow (Deity)",
+		"uniques": [
+			"[40]% Food is carried over after population increases [in all cities] <hidden from users>",
+		]
+         },
+	// Unit Cost
+	{
+		"name": "Unit Cost (King)",
+		"uniques": [
+			"[+18]% Production when constructing [All] units [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Unit Cost (Emperor)",
+		"uniques": [
+			"[+25]% Production when constructing [All] units [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Unit Cost (Immortal)",
+		"uniques": [
+			"[+54]% Production when constructing [All] units [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Unit Cost (Deity)",
+		"uniques": [
+			"[+100]% Production when constructing [All] units [in all cities] <hidden from users>",
+		]
+         },
+	// Building Cost
+	{
+		"name": "Building Cost (King)",
+		"uniques": [
+			"[+18]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Building Cost (Emperor)",
+		"uniques": [
+			"[+25]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Building Cost (Immortal)",
+		"uniques": [
+			"[+54]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Building Cost (Deity)",
+		"uniques": [
+			"[+100]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+		]
+         },
+	// Building Maintenance
+	{
+		"name": "Building Maintenance (King)",
+		"uniques": [
+			"[-15]% maintenance cost for buildings [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Building Maintenance (Emperor)",
+		"uniques": [
+			"[-20]% maintenance cost for buildings [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Building Maintenance (Immortal)",
+		"uniques": [
+			"[-35]% maintenance cost for buildings [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Building Maintenance (Deity)",
+		"uniques": [
+			"[-50]% maintenance cost for buildings [in all cities] <hidden from users>",
+		]
+         },
+	// Unit Maintenance
+	{
+		"name": "Unit Maintenance (Prince)",
+		"uniques": [
+			"[-15]% maintenance costs <for [All] units> <hidden from users>",
+		]
+         },
+	{
+		"name": "Unit Maintenance (King)",
+		"uniques": [
+			"[-20]% maintenance costs <for [All] units> <hidden from users>",
+		]
+         },
+	{
+		"name": "Unit Maintenance (Emperor)",
+		"uniques": [
+			"[-25]% maintenance costs <for [All] units> <hidden from users>",
+		]
+         },
+	{
+		"name": "Unit Maintenance (Immortal)",
+		"uniques": [
+			"[-35]% maintenance costs <for [All] units> <hidden from users>",
+		]
+         },
+	{
+		"name": "Unit Maintenance (Deity)",
+		"uniques": [
+			"[-50]% maintenance costs <for [All] units> <hidden from users>",
+		]
+         },
+	// Happiness
+	{
+		"name": "Happiness (King)",
+		"uniques": [
+			"[-10]% unhappiness from the number of cities <hidden from users>",
+			"[-10]% Unhappiness from [Population] [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Happiness (Emperor)",
+		"uniques": [
+			"[-15]% unhappiness from the number of cities <hidden from users>",
+			"[-15]% Unhappiness from [Population] [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Happiness (Immortal)",
+		"uniques": [
+			"[-25]% unhappiness from the number of cities <hidden from users>",
+			"[-25]% Unhappiness from [Population] [in all cities] <hidden from users>",
+		]
+         },
+	{
+		"name": "Happiness (Deity)",
+		"uniques": [
+			"[-40]% unhappiness from the number of cities <hidden from users>",
+			"[-40]% Unhappiness from [Population] [in all cities] <hidden from users>",
 		]
          },
 ]
