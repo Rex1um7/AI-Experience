@@ -20,7 +20,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[10]% Food is carried over after population increases [in all cities]",
+					"[10]% Food is carried over after population increases [in all cities] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -31,7 +31,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[15]% Food is carried over after population increases [in all cities]",
+					"[15]% Food is carried over after population increases [in all cities] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -42,7 +42,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[25]% Food is carried over after population increases [in all cities]",
+					"[25]% Food is carried over after population increases [in all cities] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -53,7 +53,7 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[40]% Food is carried over after population increases [in all cities]",
+					"[40]% Food is carried over after population increases [in all cities] <hidden from users>",
 					"Triggers a [Unit Cost] event <hidden from users>",
 				]
                         },
@@ -330,8 +330,8 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-10]% unhappiness from the number of cities",
-					"[-10]% Unhappiness from [Population] [in all cities]",
+					"[-10]% unhappiness from the number of cities <hidden from users>",
+					"[-10]% Unhappiness from [Population] [in all cities] <hidden from users>",
 				]
                         },
                          {
@@ -341,8 +341,8 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-15]% unhappiness from the number of cities",
-					"[-15]% Unhappiness from [Population] [in all cities]",
+					"[-15]% unhappiness from the number of cities <hidden from users>",
+					"[-15]% Unhappiness from [Population] [in all cities] <hidden from users>",
 				]
                         },
                          {
@@ -352,8 +352,8 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-25]% unhappiness from the number of cities",
-					"[-25]% Unhappiness from [Population] [in all cities]",
+					"[-25]% unhappiness from the number of cities <hidden from users>",
+					"[-25]% Unhappiness from [Population] [in all cities] <hidden from users>",
 				]
                         },
                          {
@@ -363,8 +363,8 @@
 				],
                                 "uniques": [
 					"Remove [Stat Adjustment] [in capital] <hidden from users>",
-					"[-40]% unhappiness from the number of cities",
-					"[-40]% Unhappiness from [Population] [in all cities]",
+					"[-40]% unhappiness from the number of cities <hidden from users>",
+					"[-40]% Unhappiness from [Population] [in all cities] <hidden from users>",
 				]
                         },
                 ]
