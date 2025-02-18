@@ -16,6 +16,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[10]% Food is carried over after population increases [in all cities]",
+			"City Grow",
 		]
          },
 	{
@@ -23,6 +24,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[15]% Food is carried over after population increases [in all cities] <hidden from users>",
+			"City Grow",
 		]
          },
 	{
@@ -30,6 +32,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[25]% Food is carried over after population increases [in all cities] <hidden from users>",
+			"City Grow",
 		]
          },
 	{
@@ -37,6 +40,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[40]% Food is carried over after population increases [in all cities] <hidden from users>",
+			"City Grow",
 		]
          },
 	// Unit Cost
@@ -45,6 +49,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[+18]% Production when constructing [All] units [in all cities] <hidden from users>",
+			"Unit Cost",
 		]
          },
 	{
@@ -52,6 +57,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[+25]% Production when constructing [All] units [in all cities] <hidden from users>",
+			"Unit Cost",
 		]
          },
 	{
@@ -59,6 +65,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[+54]% Production when constructing [All] units [in all cities] <hidden from users>",
+			"Unit Cost",
 		]
          },
 	{
@@ -66,6 +73,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[+100]% Production when constructing [All] units [in all cities] <hidden from users>",
+			"Unit Cost",
 		]
          },
 	// Building Cost
@@ -74,6 +82,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[+18]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+			"Building Cost",
 		]
          },
 	{
@@ -81,6 +90,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[+25]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+			"Building Cost",
 		]
          },
 	{
@@ -88,6 +98,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[+54]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+			"Building Cost",
 		]
          },
 	{
@@ -95,6 +106,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[+100]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+			"Building Cost",
 		]
          },
 	// Building Maintenance
@@ -103,6 +115,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-15]% maintenance cost for buildings [in all cities] <hidden from users>",
+			"Building Maintenance",
 		]
          },
 	{
@@ -110,6 +123,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-20]% maintenance cost for buildings [in all cities] <hidden from users>",
+			"Building Maintenance",
 		]
          },
 	{
@@ -117,6 +131,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-35]% maintenance cost for buildings [in all cities] <hidden from users>",
+			"Building Maintenance",
 		]
          },
 	{
@@ -124,6 +139,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-50]% maintenance cost for buildings [in all cities] <hidden from users>",
+			"Building Maintenance",
 		]
          },
 	// Unit Maintenance
@@ -132,6 +148,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-15]% maintenance costs <for [All] units> <hidden from users>",
+			"Unit Maintenance",
 		]
          },
 	{
@@ -139,6 +156,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-20]% maintenance costs <for [All] units> <hidden from users>",
+			"Unit Maintenance",
 		]
          },
 	{
@@ -146,6 +164,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-25]% maintenance costs <for [All] units> <hidden from users>",
+			"Unit Maintenance",
 		]
          },
 	{
@@ -153,6 +172,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-35]% maintenance costs <for [All] units> <hidden from users>",
+			"Unit Maintenance",
 		]
          },
 	{
@@ -160,6 +180,7 @@
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-50]% maintenance costs <for [All] units> <hidden from users>",
+			"Unit Maintenance",
 		]
          },
 	// Happiness
@@ -169,6 +190,7 @@
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-10]% unhappiness from the number of cities <hidden from users>",
 			"[-10]% Unhappiness from [Population] [in all cities] <hidden from users>",
+			"Happiness",
 		]
          },
 	{
@@ -177,6 +199,7 @@
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-15]% unhappiness from the number of cities <hidden from users>",
 			"[-15]% Unhappiness from [Population] [in all cities] <hidden from users>",
+			"Happiness",
 		]
          },
 	{
@@ -185,6 +208,7 @@
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-25]% unhappiness from the number of cities <hidden from users>",
 			"[-25]% Unhappiness from [Population] [in all cities] <hidden from users>",
+			"Happiness",
 		]
          },
 	{
@@ -193,6 +217,7 @@
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
 			"[-40]% unhappiness from the number of cities <hidden from users>",
 			"[-40]% Unhappiness from [Population] [in all cities] <hidden from users>",
+			"Happiness",
 		]
          },
 ]
