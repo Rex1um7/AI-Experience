@@ -15,6 +15,7 @@
 		"name": "City Grow (King)",
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
+			"[+11]% [Food] [in all cities] <in cities with [1] [Population]>",
 			"[10]% Food is carried over after population increases [in all cities]",
 			"City Grow",
 		]
@@ -23,6 +24,7 @@
 		"name": "City Grow (Emperor)",
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
+			"[+18]% [Food] [in all cities] <in cities with [1] [Population]>",
 			"[15]% Food is carried over after population increases [in all cities] <hidden from users>",
 			"City Grow",
 		]
@@ -31,6 +33,7 @@
 		"name": "City Grow (Immortal)",
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
+			"[+33]% [Food] [in all cities] <in cities with [1] [Population]>",
 			"[25]% Food is carried over after population increases [in all cities] <hidden from users>",
 			"City Grow",
 		]
@@ -39,6 +42,7 @@
 		"name": "City Grow (Deity)",
 		"uniques": [
 			"Unbuildable <hidden from users>","Unsellable <hidden from users>",
+			"[+66]% [Food] [in all cities] <in cities with [1] [Population]>",
 			"[40]% Food is carried over after population increases [in all cities] <hidden from users>",
 			"City Grow",
 		]
