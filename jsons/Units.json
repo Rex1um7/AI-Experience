@@ -10,6 +10,7 @@
 		"interceptRange": 30,
 		"cost": 1,
 		"uniques": [
+	"Can be purchased for [0] [Faith] [in capital]",
       "Can move immediately once bought",
       "Only available <for [Human player] Civilizations>",
 			"[100] additional attacks per turn",
