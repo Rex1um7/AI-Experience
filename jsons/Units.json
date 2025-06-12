@@ -1,0 +1,26 @@
+[
+	//Ancient
+	{
+		"name": "Silly AI Killer",
+		"unitType": "Fighter",
+    "strength": 100,
+		"movement": 100,
+    "rangedStrength": 100,
+		"range": 100,
+		"interceptRange": 30,
+		"cost": 1,
+		"uniques": [
+      "Can move immediately once bought",
+      "Only available <for [Human player] Civilizations>",
+			"[100] additional attacks per turn",
+      "[+10000]% Strength <vs [All]>",
+      "[+10000]% Damage when intercepting",
+      "[+10000]% Strength when performing Air Sweep",
+      "Heals [50] damage if it kills a unit",
+      "May heal outside of friendly territory",
+      "Can move after attacking",
+      "Nuclear weapon of Strength [1]",
+      "Cannot be intercepted"
+		]
+	},
+]
