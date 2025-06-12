@@ -1,5 +1,4 @@
 [
-	//Ancient
 	{
 		"name": "Silly AI Killer",
 		"unitType": "Fighter",
@@ -20,7 +19,59 @@
       "Heals [50] damage if it kills a unit",
       "May heal outside of friendly territory",
       "Can move after attacking",
-      "Cannot be intercepted"
+	"Can transform to [Silly AI Killer Arbiter I]",
+	"Can transform to [Silly AI Killer Arbiter II]",
+      "Cannot be intercepted",
+		]
+	},
+	{
+		"name": "Silly AI Killer Arbiter I",
+		"unitType": "Fighter",
+    "strength": 100,
+		"movement": 100,
+    "rangedStrength": 100,
+		"range": 100,
+		"interceptRange": 30,
+		"cost": 1,
+		"uniques": [
+	"Unavailable",
+			"[100] additional attacks per turn",
+      "[+10000]% Strength <vs [All]>",
+      "[+10000]% Damage when intercepting",
+      "[+10000]% Strength when performing Air Sweep",
+      "Heals [50] damage if it kills a unit",
+      "May heal outside of friendly territory",
+      "Can move after attacking",
+	"Blast radius [0]",	
+	"Nuclear weapon of Strength [2]",
+	"Can transform to [Silly AI Killer]",
+	"Can transform to [Silly AI Killer Arbiter II]",
+      "Cannot be intercepted",
+		]
+	},
+	{
+		"name": "Silly AI Killer Arbiter II",
+		"unitType": "Fighter",
+    "strength": 100,
+		"movement": 100,
+    "rangedStrength": 100,
+		"range": 100,
+		"interceptRange": 30,
+		"cost": 1,
+		"uniques": [
+	"Unavailable",
+			"[100] additional attacks per turn",
+      "[+10000]% Strength <vs [All]>",
+      "[+10000]% Damage when intercepting",
+      "[+10000]% Strength when performing Air Sweep",
+      "Heals [50] damage if it kills a unit",
+      "May heal outside of friendly territory",
+      "Can move after attacking",
+	"Blast radius [1]",	
+	"Nuclear weapon of Strength [2]",
+	"Can transform to [Silly AI Killer]",
+	"Can transform to [Silly AI Killer Arbiter I]",
+      "Cannot be intercepted",
 		]
 	},
 ]
